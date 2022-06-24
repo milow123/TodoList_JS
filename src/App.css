@@ -1,0 +1,40 @@
+body{
+  background-color: rgb(131, 202, 202);
+  padding: 10px 20px;
+}
+.title {
+ text-align: center;
+ padding-top: 50px;
+ padding-right: 30px;
+ padding-bottom: 50px;
+ padding-left: 80px;
+}
+.col-sm-5{
+  margin: auto;
+  width: 66%;
+}
+.btn-primary{
+  margin-top : 10px;
+}
+.button-action input{
+ margin-top:10px;
+  width: 80%;
+
+}
+
+.button-action .text{
+  margin-right: 20%;
+  text-align: center;
+  font-size: x-large;
+  flex-direction: row;
+  margin:auto;
+  width: 20%;
+  border-bottom: 3mm ridge rgba(196, 235, 247, 0.6);
+
+
+}
+.button-action .btn-warning{
+  margin-left: 10px;
+
+}
+
